@@ -1,0 +1,298 @@
+C:\Users\mubas\source\repos\pms\bin\Debug\pms.exe.config
+C:\Users\mubas\source\repos\pms\bin\Debug\pms.exe
+C:\Users\mubas\source\repos\pms\bin\Debug\pms.pdb
+C:\Users\mubas\source\repos\pms\obj\Debug\pms.dashboard.resources
+C:\Users\mubas\source\repos\pms\obj\Debug\pms.Form1.resources
+C:\Users\mubas\source\repos\pms\obj\Debug\pms.homepage.resources
+C:\Users\mubas\source\repos\pms\obj\Debug\pms.Properties.Resources.resources
+C:\Users\mubas\source\repos\pms\obj\Debug\pms.csproj.GenerateResource.cache
+C:\Users\mubas\source\repos\pms\obj\Debug\pms.csproj.CoreCompileInputs.cache
+C:\Users\mubas\source\repos\pms\obj\Debug\pms.exe
+C:\Users\mubas\source\repos\pms\obj\Debug\pms.pdb
+C:\Users\mubas\source\repos\pms\obj\Debug\pms.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\pms\pms\bin\Debug\pms.exe.config
+C:\Users\A\Desktop\pms\pms\bin\Debug\pms.exe
+C:\Users\A\Desktop\pms\pms\bin\Debug\pms.pdb
+C:\Users\A\Desktop\pms\pms\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\A\Desktop\pms\pms\obj\Debug\pms.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\pms\pms\obj\Debug\pms.dashboard.resources
+C:\Users\A\Desktop\pms\pms\obj\Debug\pms.Form1.resources
+C:\Users\A\Desktop\pms\pms\obj\Debug\pms.homepage.resources
+C:\Users\A\Desktop\pms\pms\obj\Debug\pms.Properties.Resources.resources
+C:\Users\A\Desktop\pms\pms\obj\Debug\pms.csproj.GenerateResource.cache
+C:\Users\A\Desktop\pms\pms\obj\Debug\pms.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\pms\pms\obj\Debug\pms.csproj.CopyComplete
+C:\Users\A\Desktop\pms\pms\obj\Debug\pms.exe
+C:\Users\A\Desktop\pms\pms\obj\Debug\pms.pdb
+C:\Users\A\Desktop\pms\pms\obj\Debug\pms.login.resources
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\pms.exe.config
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\pms.exe
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\pms.pdb
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\MySql.Data.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\Google.Protobuf.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\ZstdNet.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\System.Memory.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\System.Buffers.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\MySql.Data.xml
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.csproj.AssemblyReference.cache
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.exe.config
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.dashboard.resources
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.Form1.resources
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.homepage.resources
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.login.resources
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.Properties.Resources.resources
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.purchase.resources
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.csproj.GenerateResource.cache
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.csproj.CoreCompileInputs.cache
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.csproj.CopyComplete
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.exe
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.pdb
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.frmusers.resources
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.loadingscr.resources
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.frmstock.resources
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.frmsale.resources
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\RdlCompile.cache
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\RdlCompile.compiled
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\EnvDTE.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\stdole.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mubas\Desktop\MCS\Complete\Tayyab_Pharmacy\pms 4.13.22\pms\pms\obj\Debug\pms.reportfrm.resources
+F:\Tayyab\pms\pms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Tayyab\pms\pms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Tayyab\pms\pms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Tayyab\pms\pms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Tayyab\pms\pms\bin\Debug\pms.exe.config
+F:\Tayyab\pms\pms\bin\Debug\pms.exe
+F:\Tayyab\pms\pms\bin\Debug\pms.pdb
+F:\Tayyab\pms\pms\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Tayyab\pms\pms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Tayyab\pms\pms\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Tayyab\pms\pms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Tayyab\pms\pms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Tayyab\pms\pms\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Tayyab\pms\pms\bin\Debug\EnvDTE.dll
+F:\Tayyab\pms\pms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Tayyab\pms\pms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Tayyab\pms\pms\bin\Debug\ZstdNet.dll
+F:\Tayyab\pms\pms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Tayyab\pms\pms\bin\Debug\BouncyCastle.Crypto.dll
+F:\Tayyab\pms\pms\bin\Debug\Ubiety.Dns.Core.dll
+F:\Tayyab\pms\pms\bin\Debug\System.Memory.dll
+F:\Tayyab\pms\pms\bin\Debug\stdole.dll
+F:\Tayyab\pms\pms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Tayyab\pms\pms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Tayyab\pms\pms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Tayyab\pms\pms\bin\Debug\System.Buffers.dll
+F:\Tayyab\pms\pms\bin\Debug\K4os.Compression.LZ4.dll
+F:\Tayyab\pms\pms\bin\Debug\K4os.Hash.xxHash.dll
+F:\Tayyab\pms\pms\bin\Debug\System.Numerics.Vectors.dll
+F:\Tayyab\pms\pms\bin\Debug\Microsoft.MSXML.dll
+F:\Tayyab\pms\pms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Tayyab\pms\pms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Tayyab\pms\pms\obj\Debug\pms.csproj.AssemblyReference.cache
+F:\Tayyab\pms\pms\obj\Debug\pms.exe.config
+F:\Tayyab\pms\pms\obj\Debug\pms.dashboard.resources
+F:\Tayyab\pms\pms\obj\Debug\pms.Form1.resources
+F:\Tayyab\pms\pms\obj\Debug\pms.frmsale.resources
+F:\Tayyab\pms\pms\obj\Debug\pms.frmstock.resources
+F:\Tayyab\pms\pms\obj\Debug\pms.frmusers.resources
+F:\Tayyab\pms\pms\obj\Debug\pms.homepage.resources
+F:\Tayyab\pms\pms\obj\Debug\pms.loadingscr.resources
+F:\Tayyab\pms\pms\obj\Debug\pms.login.resources
+F:\Tayyab\pms\pms\obj\Debug\pms.Properties.Resources.resources
+F:\Tayyab\pms\pms\obj\Debug\pms.purchase.resources
+F:\Tayyab\pms\pms\obj\Debug\pms.reportfrm.resources
+F:\Tayyab\pms\pms\obj\Debug\pms.csproj.GenerateResource.cache
+F:\Tayyab\pms\pms\obj\Debug\pms.csproj.CoreCompileInputs.cache
+F:\Tayyab\pms\pms\obj\Debug\pms.csproj.CopyComplete
+F:\Tayyab\pms\pms\obj\Debug\pms.exe
+F:\Tayyab\pms\pms\obj\Debug\pms.pdb
+D:\Personal_Projects\pms\pms\pms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\pms.exe.config
+D:\Personal_Projects\pms\pms\pms\bin\Debug\pms.exe
+D:\Personal_Projects\pms\pms\pms\bin\Debug\pms.pdb
+D:\Personal_Projects\pms\pms\pms\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\EnvDTE.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\ZstdNet.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\BouncyCastle.Crypto.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\Ubiety.Dns.Core.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\System.Memory.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\System.Buffers.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\K4os.Compression.LZ4.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\K4os.Hash.xxHash.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\System.Numerics.Vectors.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\Microsoft.MSXML.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Personal_Projects\pms\pms\pms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.csproj.AssemblyReference.cache
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.csproj.SuggestedBindingRedirects.cache
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.exe.config
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.dashboard.resources
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.Form1.resources
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.frmsale.resources
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.frmstock.resources
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.frmusers.resources
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.homepage.resources
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.loadingscr.resources
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.login.resources
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.Properties.Resources.resources
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.purchase.resources
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.reportfrm.resources
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.csproj.GenerateResource.cache
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.csproj.CoreCompileInputs.cache
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.csproj.CopyComplete
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.exe
+D:\Personal_Projects\pms\pms\pms\obj\Debug\pms.pdb
